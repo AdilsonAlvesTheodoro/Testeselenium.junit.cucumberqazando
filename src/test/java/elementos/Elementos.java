@@ -25,10 +25,9 @@ public class Elementos {
      */
     public By MsgEsperada = By.xpath("//*[text()='E-mail inválido.']");
 
-    /**
-     * método para validar mensagem de erro login
-     */
-   // public By MsgAlerta = By.id("createAccount");
+
+
+
 
 
 }
